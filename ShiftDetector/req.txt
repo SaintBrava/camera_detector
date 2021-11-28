@@ -1,0 +1,9 @@
+tqdm
+numpy
+pandas
+matplotlib
+scikit-learn
+scipy
+opencv-python
+ffmpeg-python
+kafka-python
